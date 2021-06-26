@@ -11,6 +11,6 @@ const John López = {
   code: [Javascript, Typescript, C#, Python, Java Basic Level, HTML, CSS ],
   tools: [React, Redux, Node, Angular, Styled-Components, Jest, Docker, Azure, Azure DevOps],
   architecture: ["microservices", "event-driven", "design system pattern"],
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am doing the #100DaysOfCode challenge focused on react, typescript, GraphQL, NetCore"
  Reference README: https://github.com/thaiane
 }
