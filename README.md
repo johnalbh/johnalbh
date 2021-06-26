@@ -4,7 +4,7 @@
 </em></p>
 
 [![Linkedin: johnalbh](https://img.shields.io/badge/johnalbh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnalbh/)](https://www.linkedin.com/in/johnalbh/)
-[![GitHub johnalbh](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/johnalbh)
+[![GitHub johnalbh](https://img.shields.io/github/followers/johnalbh?label=follow&style=social)](https://github.com/johnalbh)
 
 ```javascript
 const John López = {
