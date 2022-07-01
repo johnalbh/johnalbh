@@ -1,6 +1,6 @@
 <h2> Hi, I'm John López</h2>
 <p><em>System Engineer at <a target="_blank" href="http://www.ucentral.edu.co">Universidad Central</a>
-  </br>Senior Consultant at <a target="_blank" href="https://www.akka.eu">Akka Technologies</a>
+  </br>Senior Consultant at <a target="_blank" href="https://www.siemensgamesa.com/">Siemens Gamesa</a>
 </em></p>
 
 ```javascript
